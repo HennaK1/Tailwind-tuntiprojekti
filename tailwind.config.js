@@ -11,7 +11,13 @@ module.exports = {
     },
     extend: {
       backgroundImage: {},
-      colors: {},
+      colors: {
+        darkbrown: "#3A2F33",
+        lightbrown: "#9D8483",
+        lightblue: "#ACCFD2",
+        lightyellow: "#DED8AB",
+        naturalwhite: "#EDEFEF",
+      },
     },
   },
   plugins: [],
