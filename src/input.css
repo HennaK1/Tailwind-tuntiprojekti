@@ -7,3 +7,16 @@
     @apply bg-lightyellow;
   }
 }
+ /* Videoplayerin teema */
+.vjs-henna.video-js {
+    color: #DED8AB
+  }
+  .vjs-henna .vjs-play-progress,
+  .vjs-henna .vjs-slider-bar {
+    background: rgb(0, 0, 0);
+  }
+
+  .vjs-theme-fantasy {
+    --vjs-theme-fantasy--primary: #ACCFD2 !important;
+    --vjs-theme-fantasy--secondary: #ACCFD2 !important;
+  }

@@ -10,7 +10,10 @@ module.exports = {
       "2xl": "1536px",
     },
     extend: {
-      backgroundImage: {},
+      backgroundImage: {
+        "bg-image": "url('./img/circle2.svg')",
+        "bg-image2": "url('./img/concert.jpg')",
+      },
       colors: {
         darkbrown: "#3A2F33",
         lightbrown: "#9D8483",
